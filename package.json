@@ -209,7 +209,7 @@
     "file-loader": "^6.0.0",
     "fishery": "^2.4.0",
     "google-auth-library": "^10.9.1",
-    "googleapis": "^125.0.0",
+    "googleapis": "^178.0.0",
     "html-webpack-plugin": "^5.6.8",
     "i18next-cli": "^1",
     "identity-obj-proxy": "^3.0.0",
@@ -267,7 +267,7 @@
   },
   "dependencies": {
     "@elastic/datemath": "^5.0.3",
-    "@elastic/eui": "34.6.0",
+    "@elastic/eui": "120.0.0",
     "@redis-ui/components": "^44.0.2",
     "@redis-ui/icons": "^6.9.3",
     "@redis-ui/styles": "^15.0.0",
